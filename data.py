@@ -17,8 +17,7 @@ class Data:
 Hey Bruh {} 😉,
 
 This Is Izmui {} ⚡,
-I can generate pyrogram and telethon string session . 
-Use the below button and go ahead!
+I Can Generate Pyrogram And Telethon String Session, Use The Below Button And Go Ahead!
 
 Written in Python With the Help of Program.
 
