@@ -7,9 +7,13 @@
 
 ### 🛠️ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐀𝐧𝐝 𝐓𝐨𝐨𝐥𝐬
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ <div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+</div>
 
 ----
  
