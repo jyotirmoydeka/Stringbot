@@ -14,9 +14,9 @@ class Data:
     ]
 
     START = """
-Hᴇʏ {} 😉,
+Hey Bruh {} 😉,
 
-This Is{} ⚡,
+This Is Izmui {} ⚡,
 I can generate pyrogram and telethon string session . 
 Use the below button and go ahead!
 
