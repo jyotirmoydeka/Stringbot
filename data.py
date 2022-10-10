@@ -14,11 +14,14 @@ class Data:
     ]
 
     START = """
-Hᴇʏ {},
+Hᴇʏ {} 😉,
 
-Tʜɪs ɪs {},
-ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
+This Is{} ⚡,
+I can generate pyrogram and telethon string session . 
+Use the below button and go ahead!
 
-𝐒𝐨𝐮𝐫𝐜𝐞 : [𝐆𝐢𝐭𝐡𝐮𝐛](https://github.com/AL3X-Github)
+Written in Python With the Help of Program.
+
+𝐒𝐨𝐮𝐫𝐜𝐞 : [𝐆𝐢𝐭𝐡𝐮𝐛](https://t.me/+vBu5aXlocTkwNGM1)
 𝐌𝐚𝐝𝐞 𝐖𝐢𝐭𝐡 🖤 𝐁𝐲 : [𝐈 𝐙 𝐔 𝐌 𝐈](https://t.me/MaximXRobot)!
     """
