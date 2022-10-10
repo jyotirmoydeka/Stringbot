@@ -3,10 +3,7 @@
 </p>
 
 ### 🥵 𝐒𝐭𝐫𝐢𝐧𝐠 𝐆𝐞𝐧𝐫𝐚𝐭𝐨𝐫 𝐁𝐨𝐭
-  <a href="https://github.com/AnonymousR1025"><img alt="Website" src="https://img.shields.io/badge/𝐈 𝐙 𝐔 𝐌 𝐈-blue"></a>
- 
-[![Stars](https://img.shields.io/github/stars/AnonymousR1025/StringGenBot?style=social)](https://github.com/AnonymousR1025/StringGenBot/stargazers)
-  [![Forks](https://img.shields.io/github/forks/AnonymousR1025/StringGenBot?style=social)](https://github.com/AnonymousR1025/StringGenBot/fork)
+  <p align="center"><a href="https://github.com/AnonymousR1025"><img alt="Website" src="https://img.shields.io/badge/𝐈 𝐙 𝐔 𝐌 𝐈-blue"></a></p>
 
 ### 🛠️ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐀𝐧𝐝 𝐓𝐨𝐨𝐥𝐬
 
@@ -18,9 +15,9 @@
  
 ### 🤤 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
-- [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ ᴠ2 🔥
-- [»] sᴀғᴇsᴛ ʙᴏᴛ ᴇᴠᴇʀ 🔥
-- [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ 🔥
+- [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ ᴠ2
+- [»] sᴀғᴇsᴛ ʙᴏᴛ ᴇᴠᴇʀ
+- [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ
 - [»] sᴜᴩᴩᴏʀᴛs sᴇssɪᴏɴ ɢᴇɴ ғᴏʀ ʙᴏᴛғᴀᴛʜᴇʀ ʙᴏᴛs
 
 ### 🚀  𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐨 𝐇𝐞𝐫𝐨𝐤𝐮
@@ -31,7 +28,7 @@
 
 ### 🤖 𝐃𝐞𝐦𝐨/𝐓𝐞𝐬𝐭
   
-  [𝐒𝐭𝐫𝐢𝐧𝐠 𝐁𝐨𝐭](https://telegram.me/IzumiTestBott)
+  [𝐒𝐭𝐫𝐢𝐧𝐠 𝐁𝐨𝐭](https://telegram.me/IzumiTestBot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
@@ -41,7 +38,7 @@ Atleast Give A Star and Fork The Repo 🖤
 
 ☞ `API_ID` - Get your API_ID from [my.telegram.org](https://my.telegram.org/apps)<br>
 ☞ `API_HASH` - Get your API_HASH from [my.telegram.org](https://my.telegram.org/apps)<br>
-☞ `BOT_TOKEN` - Bot Token of your spam bots.<br>
+☞ `BOT_TOKEN` - Bot Token of your spam bots. [@BotFather](https://t.me/BotFather)<br>
 
 
 ## 💖 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
