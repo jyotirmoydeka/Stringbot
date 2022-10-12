@@ -1,4 +1,4 @@
-# 𝐒𝐭𝐫𝐢𝐧𝐠 𝐆𝐞𝐧𝐫𝐚𝐭𝐨𝐫 𝐁𝐨𝐭
+## 𝐒𝐭𝐫𝐢𝐧𝐠 𝐆𝐞𝐧𝐫𝐚𝐭𝐨𝐫 𝐁𝐨𝐭
 <p align="center">
 
 <img src="https://te.legra.ph/file/0c13eb00aaba21dd2f541.jpg" alt="StringGen">
