@@ -1,9 +1,9 @@
-## 𝐒𝐭𝐫𝐢𝐧𝐠 𝐆𝐞𝐧𝐫𝐚𝐭𝐨𝐫 𝐁𝐨𝐭
+# 𝐒𝐭𝐫𝐢𝐧𝐠 𝐆𝐞𝐧𝐫𝐚𝐭𝐨𝐫 𝐁𝐨𝐭
 <p align="center">
 
 <img src="https://te.legra.ph/file/0c13eb00aaba21dd2f541.jpg" alt="StringGen">
 
-<p align="center"><a href="https://github.com/AL3X-Github"><img alt="Website" src="https://img.shields.io/badge/𝐈 𝐙 𝐔 𝐌 𝐈-blue"></a></p>
+<p align="center"><a href="https://github.com/AL3X-Github"><img alt="Website" src="https://img.shields.io/badge/I𝗓υɱi 和泉-blue"></a></p>
 
 ### 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐀𝐧𝐝 𝐓𝐨𝐨𝐥𝐬
 
@@ -29,10 +29,10 @@
 
 
 
-### 𝐃𝐞𝐦𝐨 : [𝐒𝐭𝐫𝐢𝐧𝐠 𝐁𝐨𝐭](https://telegram.me/IzumiTestBot)
+### 𝐃𝐞𝐦𝐨: [𝐒𝐭𝐫𝐢𝐧𝐠 𝐁𝐨𝐭](https://telegram.me/IzumiTestBot)
 
 ```
-Atleast Give A Star and Fork The Repo 🖤
+Atleast Give A Star and Fork The Repo ⭐
 ```
 
 ## 𝐍𝐞𝐜𝐞𝐬𝐬𝐚𝐫𝐲 𝐕𝐚𝐫𝐬
