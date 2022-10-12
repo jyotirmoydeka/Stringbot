@@ -18,10 +18,10 @@
  
 ### 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
-- [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ ᴠ2
-- [»] sᴀғᴇsᴛ ʙᴏᴛ ᴇᴠᴇʀ
-- [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ
-- [»] sᴜᴩᴩᴏʀᴛs sᴇssɪᴏɴ ɢᴇɴ ғᴏʀ ʙᴏᴛғᴀᴛʜᴇʀ ʙᴏᴛs
+- [❶] Support Pyrogram V2.
+- [❷] Safest Bot Ever.
+- [❸] Support Support Pyrogram And Telethon.
+- [❹] Support Session Gen For BotFather.
 
 ### 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐨 𝐇𝐞𝐫𝐨𝐤𝐮
   
