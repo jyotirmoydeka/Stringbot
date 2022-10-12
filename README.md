@@ -5,7 +5,7 @@
 
 <img src="https://te.legra.ph/file/0c13eb00aaba21dd2f541.jpg" alt="StringGen">
 
-<p align="center"><a href="https://github.com/AL3X-Github"><img alt="Website" src="https://img.shields.io/badge/I𝗓υɱi 和泉-blue"></a></p>
+<p align="center"><a href="https://github.com/AL3X-Github"><img alt="Website" src="https://img.shields.io/badge/ㅤPowered By I𝗓υɱi 和泉ㅤ-blue"></a></p>
 
 <h3 align="center">
     ─「 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐀𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 」─
