@@ -29,7 +29,7 @@
 
 
 
-### 𝐃𝐞𝐦𝐨/𝐓𝐞𝐬𝐭 [𝐒𝐭𝐫𝐢𝐧𝐠 𝐁𝐨𝐭](https://telegram.me/IzumiTestBot)
+### 𝐃𝐞𝐦𝐨 : [𝐒𝐭𝐫𝐢𝐧𝐠 𝐁𝐨𝐭](https://telegram.me/IzumiTestBot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
