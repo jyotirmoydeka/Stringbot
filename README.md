@@ -34,9 +34,9 @@
 </h3>
   
   <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AL3X-Github/StringBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-  
+
 ```
-Give A Star and Fork The Repo ⭐
+At least Give A Star and Fork The Repo ⭐
 ```
 <h3 align="center">
     ─「 𝐍𝐞𝐜𝐞𝐬𝐬𝐚𝐫𝐲 𝐕𝐚𝐫𝐬 」─
