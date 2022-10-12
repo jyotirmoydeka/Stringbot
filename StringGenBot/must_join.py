@@ -18,7 +18,7 @@ async def must_join_channel(bot: Client, msg: Message):
                 chat_info = await bot.get_chat(MUST_JOIN)
                 link = chat_info.invite_link
             try:
-                await msg.reply_photo(photo="https://te.legra.ph/file/86037156a878c0273df07.jpg"
+                await msg.reply_photo(photo="https://te.legra.ph/file/86037156a878c0273df07.jpg")
                 
 caption=f"➤ According To My Database You've Not Joined [Group/Channel]({link}) Yet, If You Want To Use Me Then Join [Group/Channel]({link}) And Start Me Again 😉",
                     reply_markup=InlineKeyboardMarkup([
