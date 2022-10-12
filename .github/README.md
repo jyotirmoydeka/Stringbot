@@ -20,7 +20,7 @@
 
 - [❶] Support Pyrogram V2.
 - [❷] Safest Bot Ever.
-- [❸] Support Support Pyrogram And Telethon.
+- [❸] Support Pyrogram And Telethon.
 - [❹] Support Session Gen For BotFather.
 
 ### 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐨 𝐇𝐞𝐫𝐨𝐤𝐮
