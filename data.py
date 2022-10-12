@@ -16,11 +16,10 @@ class Data:
     START = """
 Hey Bruh {} 😉,
 
-This Is Izmui {} ⚡,
+This Is I𝗓υɱi 和泉 {} ⚡,
 I Can Generate Pyrogram And Telethon String Session, Use The Below Button And Go Ahead!
+Written in Python With the Help of Pyrogram.
 
-Written in Python With the Help of Program.
-
-𝐒𝐨𝐮𝐫𝐜𝐞 : [𝐆𝐢𝐭𝐡𝐮𝐛](https://t.me/+vBu5aXlocTkwNGM1)
-𝐌𝐚𝐝𝐞 𝐖𝐢𝐭𝐡 🖤 𝐁𝐲 : [𝐈 𝐙 𝐔 𝐌 𝐈](https://t.me/MaximXRobot)!
+Source : [Github](https://t.me/+vBu5aXlocTkwNGM1)
+Build With ❤️ By : [I𝗓υɱi 和泉](https://t.me/MaximXRobot)
     """
