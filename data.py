@@ -24,8 +24,11 @@ If You Don't Trust This Bot 😒,
 🫵 Still Reading!? 
 You Can Use Me To Generate Pyrogram New V2 And Telethon String Session. Use Below Buttons To Learn More !
 
-🧑‍💻 By @MaximXRobot 
+❏ 𝐌𝐚𝐱𝐢𝐦 𝐗 𝐁𝐨𝐭𝐬
+┣ ☁️ Source Code : [Click Here](https://t.me/+vBu5aXlocTkwNGM1)
+┣ 🔥 Framework : [Pyrogram](https://docs.pyrogram.org)
+┗ 🗣️ Language : [Python](https://www.python.org)
 
-Source : [Github](https://t.me/+vBu5aXlocTkwNGM1)
-Build With ❤️ By : [I𝗓υɱi 和泉](https://t.me/MaximXRobot)
+❏ 🧑‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 ━┓
+┗ @MaximXRobot
     """
