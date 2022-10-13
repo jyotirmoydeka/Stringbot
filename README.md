@@ -3,7 +3,7 @@
 </h2>
 <p align="center">
 
-<img src="https://te.legra.ph/file/0c13eb00aaba21dd2f541.jpg" alt="StringGen">
+<img src="https://te.legra.ph/file/0c13eb00aaba21dd2f541.jpg" alt="StringBot">
 
 <p align="center"><a href="https://github.com/AL3X-Github"><img alt="Website" src="https://img.shields.io/badge/ㅤPowered By I𝗓υɱi 和泉ㅤ-blue"></a></p>
 
