@@ -13,7 +13,7 @@ class Data:
         ],
     ]
 
-    START = """ https://te.legra.ph/file/24465e3cbd9767aab29ea.jpg
+    START = """
 Hey Bro {}
 Welcome To  {} 
 
