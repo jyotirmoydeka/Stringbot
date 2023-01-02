@@ -8,7 +8,7 @@ RUN pip3 install -U pip
 
 RUN cd /
 
-RUN git clone https://github.com/jyotirmoydeka
+RUN git clone https://github.com/jyotirmoydeka/stringbot
 
 RUN cd Stringbot
 
